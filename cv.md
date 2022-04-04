@@ -18,7 +18,7 @@ One of my biggest skills is that I always believe in myself. I know that, I'm no
 ___
 #### Code example:
 
-not yet..
+not yet
 ___
 #### Work experience:
 1. Risk Analyst in Home Credit Bank, Kazakhstan, 2012 - 2013
