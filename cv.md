@@ -19,17 +19,14 @@ ___
 #### Code example:
 body>
   <div class="first-container">
-    <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
     <h1>I'm Amir.</h1>
     <h2>I'm a <span class="dre">dre</span>amer</h2>
-    <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
-    <img src="images/mountain.png" alt="mountain-img">
   </div>
 ___
 #### Work experience:
 1. Risk Analyst in Home Credit Bank, Kazakhstan, 2012 - 2013
-2. Air Traffic Controller in Kazaeronavigatsiya, Kazakhstan, 2014 - 2020
-3. Supervisor of Air Traffic Controllers in Kazaeronavigatsiya, Kazakhstan, 2020 - present
+2. Air Traffic Controller in Kazaeronavigation, Kazakhstan, 2014 - 2020
+3. Supervisor of Air Traffic Controllers in Kazaeronavigation, Kazakhstan, 2020 - present
 ____
 #### Education:
 1. Computer Systems and Software, Kazak-British Technical University, Kazakhstan, 2008 - 2012
