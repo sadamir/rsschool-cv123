@@ -17,10 +17,9 @@ One of my biggest skills is that I always believe in myself. I know that, I'm no
 
 ___
 #### Code example:
-body>
+
   <div class="first-container">
     <h1>I'm Amir.</h1>
-    <h2>I'm a <span class="dre">dre</span>amer</h2>
   </div>
 ___
 #### Work experience:
