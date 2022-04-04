@@ -28,7 +28,7 @@ body>
 ___
 #### Work experience:
 1. Risk Analyst in Home Credit Bank, Kazakhstan, 2012 - 2013
-2. Air Traffic Controller in Kazaeronavigatsiya, Kazakhstan, 2014 - 2020
+2. Air Traffic Controller in Kazaeronavigation, Kazakhstan, 2014 - 2020
 3. Supervisor of Air Traffic Controllers in Kazaeronavigatsiya, Kazakhstan, 2020 - present
 ____
 #### Education:
