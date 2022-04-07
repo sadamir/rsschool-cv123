@@ -17,6 +17,10 @@ a:visited{
   color: #40514E;
 }
 
+.a-footer{
+  margin: 0px 20px;
+}
+
 .a-navigation:hover{
   color: #ABB2B9;
 }
@@ -48,12 +52,20 @@ a:visited{
   padding: 10px;
 }
 
+.date-text{
+  font-size: 0.85rem;
+}
+
 .footer-info{
+  color: #808B96;
   text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  line-height: 1;
 }
 
 .img_footer{
-  width:3%;
+  width:4%;
 }
 
 .img_profile {
