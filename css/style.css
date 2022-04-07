@@ -1,5 +1,28 @@
+a:visited{
+  text-decoration: none;
+  color: #40514E;
+}
+
+a:hover{
+  color: #ABB2B9;
+}
+
+a {
+  text-decoration: none;
+}
+
 body {
+  color: #40514E;
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
+}
+
+h1{
+  padding-top: 50px;
+}
+
+.cv-heading{
+  margin: 80px auto 80px auto;
 }
 
 .container{
@@ -23,4 +46,5 @@ body {
 .img_profile {
   width: 15%;
   float: left;
+  margin-right: 30px;
 }
