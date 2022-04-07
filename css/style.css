@@ -19,6 +19,8 @@ body {
 .img_footer{
   width:3%;
 }
+
 .img_profile {
-  width: 20%;
+  width: 15%;
+  float: left;
 }
